@@ -1,7 +1,3 @@
-# 
-Scrape individual profiles from fiverr.com
-
-
 fiverr_scraper
 =========
 
