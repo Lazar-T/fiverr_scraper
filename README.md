@@ -10,7 +10,7 @@ Given the profile url, scrape interesting data from it.
 
 ### Requirements
 
-fiverr_scraper uses: [requests](http://docs.python-requests.org/en/latest/), [lxml](http://lxml.de/) and [termcolor](https://pypi.python.org/pypi/termcolor).
+`fiverr_scraper` uses: [requests](http://docs.python-requests.org/en/latest/), [lxml](http://lxml.de/) and [termcolor](https://pypi.python.org/pypi/termcolor).
 
 ### Installation and Running
 ```
